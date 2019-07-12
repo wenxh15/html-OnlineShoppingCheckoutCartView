@@ -131,17 +131,27 @@ input[type=text], select {
   height: auto;
   flex-direction: column;
 }
+
 .main{
   width: 100%;
   margin: auto;
 }
+
 .aside{
     width: 100%;
     max-width: 900px;
   }
+
 .cart{
-  width: 100%;/*30%没有被覆盖*/
+  width: 100%;
   margin: 25px 0;
   max-width: none;
 }
+
+  .shorttext{
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
 }
