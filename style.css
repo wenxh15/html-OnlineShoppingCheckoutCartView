@@ -145,4 +145,9 @@ input[type=text], select {
   margin: 25px 0;
   max-width: none;
 }
+  .shorttext{
+  width: 42%;
+  margin: auto 4%;
+  padding: 0;
+}
 }
