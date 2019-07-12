@@ -146,7 +146,7 @@ input[type=text], select {
   max-width: none;
 }
   .shorttext{
-  width: 42%;
+  width: 100%;
   margin: auto 4%;
   padding: 0;
 }
