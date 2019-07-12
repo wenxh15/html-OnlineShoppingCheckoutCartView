@@ -125,12 +125,17 @@ input[type=text], select {
 @media screen and (max-width: 900px) {
 .column{
   box-sizing: border-box;
-  width: 100%
+  width: 100%;
   margin: auto;
   display: inline;
   height: auto;
   flex-direction: column;
 }
+
+.aside{
+  width: 100%;
+  max-width: 900px;
+  }
 .main{
   width: 100%;
   margin: auto;
