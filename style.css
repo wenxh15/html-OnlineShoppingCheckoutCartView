@@ -125,7 +125,7 @@ input[type=text], select {
 @media screen and (max-width: 900px) {
 .column{
   box-sizing: border-box;
-  width: 100%
+  width: 100%;
   margin: auto;
   display: inline;
   height: auto;
@@ -135,6 +135,10 @@ input[type=text], select {
   width: 100%;
   margin: auto;
 }
+.aside{
+    width: 100%;
+    max-width: 900px;
+  }
 .cart{
   width: 100%;/*30%没有被覆盖*/
   margin: 25px 0;
